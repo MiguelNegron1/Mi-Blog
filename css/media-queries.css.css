@@ -1,7 +1,4 @@
 @media (max-width: 900px) {
-    .blogs-news-container{
-
-    }
     .blogs-main-new{
         display: grid;
         grid-template-columns: 2fr;
