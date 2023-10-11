@@ -77,7 +77,7 @@ nav{
     height: 100%;
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    background: url('/assets/img/Cover.png') center/cover no-repeat;
+    background: url('../assets/img/Cover.png') center/cover no-repeat;
     width: 100vw;
     height: 100%;
 }
